@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="screenshots/screenshot_1.png">
-  Vue.js Calculator
+  Vue.js Calculator<br>
+  <img src="screenshots/screenshot_1.png" width="300">
 </h1>
 
 
