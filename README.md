@@ -7,7 +7,7 @@ Esse é um projeto simples que fiz com o objetivo de praticar e fixar alguns con
 
 ---
 
-### Como executá-lo em sua máquina
+### :arrow_forward: Como executá-lo em sua máquina
 Baixe o projeto, instale as dependências e inicie a calculadora seguindo os seguintes passos
 
 ```bash
