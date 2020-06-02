@@ -1,12 +1,10 @@
 <h1 align="center">
-  Vue.js Calculator<br>
+  Vue.js Calculator<br><br>
   <img src="screenshots/screenshot_1.png" width="300">
 </h1>
 
 
 Esse é um projeto simples que fiz com o objetivo de praticar e fixar alguns conhecimentos sobre Vue.js, você pode ver ele rodando clicando no link abaixo :arrow_heading_down:
-
-### :arrow_forward: [Calculadora funcionando](https://tiagodiass.github.io/vuejs-calculator)
 
 ---
 
